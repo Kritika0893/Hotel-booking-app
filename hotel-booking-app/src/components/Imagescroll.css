@@ -1,0 +1,15 @@
+.image-scroll-container {
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap; /* To ensure images are displayed in a single line */
+  }
+  
+  .image-scroll-wrapper {
+    display: inline-block; /* To keep images in a single line */
+  }
+  
+  .image-scroll-wrapper img {
+    width: 250px; /* Set width of each image */
+    height: 250px; /* Maintain aspect ratio */
+    gap: 10px;
+  }

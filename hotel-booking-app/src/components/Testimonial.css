@@ -1,0 +1,27 @@
+/* .testimonial {
+  margin-left: 40px;
+    background-color: #e0b7b7;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+   */
+   .testimonial img{
+    height: 250px;
+    width: 400px;
+    overflow-x: hidden;
+  }
+  .card{
+    overflow: hidden;
+  }
+  
+  
+  
+  
+  
+  
+  .author-info {
+    flex: 1;
+  }

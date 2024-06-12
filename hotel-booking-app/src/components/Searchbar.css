@@ -1,0 +1,17 @@
+.filter-sec{
+    margin: 30px 30px 30px 30px;
+    height: 30px;
+    width: 1250px;
+    background-color: rgb(8 47 73);
+    padding: 100px;
+}
+form{
+    
+    display: inline-flex;
+}
+.form-group row {
+    margin: 10px;
+}
+.col-sm-2 {
+color: azure;
+}

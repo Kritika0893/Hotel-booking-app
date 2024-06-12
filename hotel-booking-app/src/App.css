@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+.grid-container {
+  background-color: rgb(8 47 73);
+    display: grid;
+    margin-right: auto;
+    margin-left: auto;
+    grid-template-columns: auto auto auto auto;
+    gap: 40px;
+    
+    padding: 30px;
+  }
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px ;
+    font-size: 20px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 400px;
+    width: 400px;
+  }
+  *{
+    margin: 0px;
+    
+  }
